@@ -10,4 +10,4 @@ this is also able to generate fake acronyms (acronmys which arent listed on roli
 
 
 
-this was made for future use, but also for anyone else who might need it
+this was made for future use, but also for anyone else who might need it. a worser version was also used in my proof checker
